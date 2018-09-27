@@ -1,0 +1,25 @@
+{
+  "name": "cfkorea-webapp",
+  "version": "1.0.0",
+  "description": "An web application to serve CF Korea",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guehochoi/cfkorea-webapp.git"
+  },
+  "author": "grchoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guehochoi/cfkorea-webapp/issues"
+  },
+  "homepage": "https://github.com/guehochoi/cfkorea-webapp#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.2",
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.3"
+  }
+}
